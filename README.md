@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **minameischau/minameischau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p style="border: radius 10px;"><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<h1>Hi there 👋, I'm Chou</h1>
 
-<!--SNAKE WEBSITE: https://github.com/Platane/snk-->
-<p align="center"> 
- 🐍<img src="https://i.imgur.com/uyzXdOe.gif" width="200">🐍
-<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg">
+I am Ha Ngoc Chau, I am currently pursuing my Bachelors in information technology from [Can Tho University](https://ctu.edu.vn/). I am a tech enthusiast & a self learner.
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p> -->
+<br>
+- 🌱 I’m currently learning ** Computer Vision, Deep Learning, Angular and NodeJS **
+- 👯 I’m looking to collaborate on Web Development Related Projects **
+- 🤔 I’m looking for help with Computer Vision **
+- 🥅 2022 Goals: To be profficient in AI and Web :|
+- ⚡ Fun fact: I love taking photos and learning English.
+
