@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 <p style="border: radius 10px;"><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <!--SNAKE WEBSITE: https://github.com/Platane/snk-->
-<p align="center"> 🐍<img src="https://i.imgur.com/uyzXdOe.gif" width="200">🐍 </p>
+<p align="center"> 
+ 🐍<img src="https://i.imgur.com/uyzXdOe.gif" width="200">🐍
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg">
