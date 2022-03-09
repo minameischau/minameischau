@@ -35,11 +35,12 @@ I am Ha Ngoc Chau, I am currently pursuing my Bachelors in information technolog
 
 <h4> Languages </h4>
 <span> 
-  <img src="https://img.shields.io/badge/-HTML5-ffffff?style=flat&logo=HTML5" width="100px">&nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript" width="100px">
-  <img src="https://img.shields.io/badge/-Java-ffffff?style=flat&logo=Java&logoColor=007396" width="100px">
-  <img src="https://img.shields.io/badge/-C-ffffff?style=flat&logo=C" width="100px">
-  <img src="https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python" width="100px">
+  <img src="https://img.shields.io/badge/-HTML5-cccccc?style=flat&logo=HTML5" height="30px"> &nbsp;
+  <img src="https://img.shields.io/badge/-CSS-cccccc?style=flat&logo=CSS3&logoColor=1572B6" height="30px"> &nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-cccccc?style=flat&logo=javascript" height="30px"> &nbsp;
+  <img src="https://img.shields.io/badge/-Java-cccccc?style=flat&logo=Java&logoColor=007396" height="30px"> &nbsp;
+  <img src="https://img.shields.io/badge/-C-cccccc?style=flat&logo=C" height="30px"> &nbsp;
+  <img src="https://img.shields.io/badge/-Python-cccccc?style=flat&logo=python" height="30px"> &nbsp;
 </span>
 
 <h4> Frameworks </h4>
@@ -49,13 +50,13 @@ I am Ha Ngoc Chau, I am currently pursuing my Bachelors in information technolog
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> --> 
+  <img src="https://img.shields.io/badge/-Bootstrap-cccccc?style=flat&logo=bootstrap&logoColor=563D7C" height="30px">
 </span>
 
 <h4> Databases </h4>
 <span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySQL-cccccc?style=flat&logo=MySQL" height="30px">
 <!--   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> -->
 </span>
@@ -64,30 +65,30 @@ I am Ha Ngoc Chau, I am currently pursuing my Bachelors in information technolog
 <span>
 <!-- <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"> -->
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-cccccc?style=flat&logo=visual-studio-code&logoColor=007ACC" height="30px">
 
 <h4> Operating System </h4>
 <span>
 <!--   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/-Ubuntu-cccccc?style=flat&logo=Ubuntu" height="30px"> &nbsp;
+  <img src="https://img.shields.io/badge/-Windows-cccccc?style=flat&logo=Windows" height="30px">
 <!--   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> -->
 </span>
 
 <h4> Other Tools and Technologies </h4>
 <span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-Git-cccccc?style=flat&logo=Git" height="30px"> &nbsp;
 <!--   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
+  <img src="https://img.shields.io/badge/-Xampp-cccccc?style=flat&logo=Xampp" height="30px"> &nbsp;
 <!--   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/-Jquey-cccccc?style=flat&logo=JQuery" height="30px">  &nbsp;
 <!--   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
+  <img src="https://img.shields.io/badge/-Font_Awesome-cccccc?style=flat&logo=Font_Awesome" height="30px">
 </span>
   
 ## Github Stats 
