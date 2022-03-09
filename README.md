@@ -35,12 +35,11 @@ I am Ha Ngoc Chau, I am currently pursuing my Bachelors in information technolog
 
 <h4> Languages </h4>
 <span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="border-radius: 20px;">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/-HTML5-ffffff?style=flat&logo=HTML5" width="100px">&nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript" width="100px">
+  <img src="https://img.shields.io/badge/-Java-ffffff?style=flat&logo=Java&logoColor=007396" width="100px">
+  <img src="https://img.shields.io/badge/-C-ffffff?style=flat&logo=C" width="100px">
+  <img src="https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python" width="100px">
 </span>
 
 <h4> Frameworks </h4>
