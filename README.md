@@ -26,12 +26,12 @@ I am Ha Ngoc Chau, I am currently pursuing my Bachelors in information technolog
 - 🥅 2022 Goals: To be profficient in AI and Web :|
 - ⚡ Fun fact: I love taking photos and learning English.
 
-## Connect with me <img src="https://img.icons8.com/ios/344/phone-message.png" width="25px"> 
+## Connect with me <img src="https://img.icons8.com/nolan/344/phone.png" width="30px"> 
 <a href="https://fb.com/ngocchau.ha1801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoy.the.hazard10" height="30" width="40" /></a>
 <a href="https://instagram.com/minameischou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
 <a href="https://github.com/minameischau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
 
-## Technical Skills <img src="https://img.icons8.com/material-rounded/344/system-information.png" width="25px">&nbsp; 
+## Technical Skills <img src="https://img.icons8.com/nolan/344/system-information.png" height="30px"> 
 
 <h4> Languages </h4>
 <span> 
@@ -91,7 +91,7 @@ I am Ha Ngoc Chau, I am currently pursuing my Bachelors in information technolog
   <img src="https://img.shields.io/badge/-Font_Awesome-cccccc?style=flat&logo=Font_Awesome" height="30px">
 </span>
   
-## Github Stats 
+## Github Stats <img src="https://img.icons8.com/nolan/344/bar-chart.png" height="30px">
 <p>
 <a align= "center" href="https://github.com/dataonatangent">
 <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=minameischau&theme=cobalt&show_icons=true&count_private=true" />
