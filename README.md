@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 <h1>Hi there 👋, I'm Chou</h1>
 
-I am Ha Ngoc Chau, I am currently pursuing my Bachelors in information technology from [Can Tho University](https://ctu.edu.vn/). I am a tech enthusiast & a self learner.
+I am Chou, I am currently Graduate Software Engineer. I am a tech enthusiast & a self learner.
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p> -->
 
-- 🌱 I’m currently learning ** Computer Vision, Deep Learning, Angular and NodeJS **
+- 🌱 I’m currently learning ** .NET **
 - 👯 I’m looking to collaborate on Web Development Related Projects **
-- 🤔 I’m looking for help with Computer Vision **
-- 🥅 2023 Goals: To be profficient in AI and Web :|
+- 🤔 I’m looking for help with .NET **
+- 🥅 2024 Goals: To be profficient in AI and Web :|
 - ⚡ Fun fact: I love taking photos and learning English.
 
 ## Connect with me <img src="https://img.icons8.com/nolan/344/phone.png" width="30px"> 
