@@ -23,7 +23,7 @@ I am Chou, I am currently Graduate Software Engineer. I am a tech enthusiast & a
 - 🌱 I’m currently learning ** .NET **
 - 👯 I’m looking to collaborate on Web Development Related Projects **
 - 🤔 I’m looking for help with .NET **
-- 🥅 2024 Goals: To be profficient in AI and Web :|
+- 🥅 2025 Goals: To be profficient in .NET and ReatJs :|
 - ⚡ Fun fact: I love taking photos and learning English.
 
 ## Connect with me <img src="https://img.icons8.com/nolan/344/phone.png" width="30px"> 
