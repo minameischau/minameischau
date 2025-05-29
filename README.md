@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1>Hi there 👋, I'm Chou</h1>
 
-I am Chou, I am currently Graduate Software Engineer. I am a tech enthusiast & a self learner.
+I am Chou, I am currently .NET developer. I am a tech enthusiast & a self learner.
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p> -->
 
